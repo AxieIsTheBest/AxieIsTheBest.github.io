@@ -1,4 +1,4 @@
-var minersAddr = '0x63fDB78C40D6c95F34DD346eae8670D9E99791df';
+var minersAddr = '';
 var tokenAddr = '0xe9e7cea3dedca5984780bafc599bd69add087d56';
 var minersAbi =
 [
